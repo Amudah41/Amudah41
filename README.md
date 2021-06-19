@@ -1,18 +1,16 @@
 ### Hi there 👋
 
 
-<p align='center'>
-   <a href="https://t.me">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:aleksey.erichev@gmail.com'>aleksey.erichev@gmail.com</a>
 </p>
 
 
-<a>
+
+<p align='center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
+</p>
 
 
 <!--
